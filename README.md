@@ -1,2 +1,3 @@
 # Parallex-project
-This is my first project using HTML and CSS 
+Adventure website using HTML and Vanilla CSS, highlighting captivating
+parallax effects created through CSS animations.
